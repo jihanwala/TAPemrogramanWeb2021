@@ -401,7 +401,7 @@ mysqli_report (MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
         <?php
         date_default_timezone_set('Asia/Jakarta');
         echo("<font face=verdana size=2 color=blue><b>");
-        echo date("<b>'l, d-m-Y | g:i:sa'</b>" );
+        echo date("<b>'l, d-F-Y | g:i:sa'</b>" );
         ?><br><br>            
             <span>Copyright &copy; 2019 . Sistem Informasi Inventaris Barang</span>
           </div>
